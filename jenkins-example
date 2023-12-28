@@ -13,6 +13,7 @@ pipeline {
 {
    echo 'hi there'
     }
+}
 stage ('deploy')
 {
      steps
